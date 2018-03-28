@@ -12,6 +12,11 @@ import java.io.*;
 
 public class G08HM1 {
 
+  //Commento prova github
+    //kjjsbibibsois7
+    //bkjebheobninboniboenobenobn
+
+
   //Method to find the mean of an ArrayList of Double elements
   public static double mean(ArrayList<Double> x){
     double sum=0;
