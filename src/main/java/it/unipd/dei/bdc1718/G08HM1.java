@@ -8,6 +8,8 @@ import org.apache.spark.api.java.JavaSparkContext;
 import java.util.*;
 import java.io.*;
 
+//prova github comment
+
 public class G08HM1 {
 
   //Method to find the mean of an ArrayList of Double elements
